@@ -1,0 +1,14 @@
+2026-02-20 23:09:50,189 - INFO - User entered numbers: [1, 2, 3, 4, 2, 1]
+2026-02-20 23:09:50,191 - INFO - Function second_largest started
+2026-02-20 23:09:50,191 - INFO - Checking number: 1
+2026-02-20 23:09:50,191 - INFO - New largest found: 1
+2026-02-20 23:09:50,191 - INFO - Checking number: 2
+2026-02-20 23:09:50,192 - INFO - New largest found: 2
+2026-02-20 23:09:50,192 - INFO - Checking number: 3
+2026-02-20 23:09:50,192 - INFO - New largest found: 3
+2026-02-20 23:09:50,192 - INFO - Checking number: 4
+2026-02-20 23:09:50,192 - INFO - New largest found: 4
+2026-02-20 23:09:50,192 - INFO - Checking number: 2
+2026-02-20 23:09:50,192 - INFO - Checking number: 1
+2026-02-20 23:09:50,193 - INFO - Function completed. Second largest: 3
+2026-02-20 23:09:50,193 - INFO - Final result: 3
