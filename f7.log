@@ -1,0 +1,5 @@
+2026-02-20 23:15:14,932 - INFO - Original list: [1, 2, 4, 5]
+2026-02-20 23:15:14,933 - INFO - Calculated n value: 5
+2026-02-20 23:15:14,933 - INFO - Expected sum (1 to n): 15
+2026-02-20 23:15:14,933 - INFO - Actual sum of list: 12
+2026-02-20 23:15:14,933 - INFO - Missing number calculated: 3
