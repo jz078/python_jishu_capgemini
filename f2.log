@@ -1,0 +1,26 @@
+2026-02-20 23:05:20,511 - INFO - User entered string: my name is jishu mahato
+2026-02-20 23:05:20,512 - INFO - Added new character 'm' with count 1
+2026-02-20 23:05:20,513 - INFO - Added new character 'y' with count 1
+2026-02-20 23:05:20,513 - INFO - Added new character ' ' with count 1
+2026-02-20 23:05:20,513 - INFO - Added new character 'n' with count 1
+2026-02-20 23:05:20,513 - INFO - Added new character 'a' with count 1
+2026-02-20 23:05:20,513 - INFO - Incremented count of 'm' to 2
+2026-02-20 23:05:20,513 - INFO - Added new character 'e' with count 1
+2026-02-20 23:05:20,513 - INFO - Incremented count of ' ' to 2
+2026-02-20 23:05:20,513 - INFO - Added new character 'i' with count 1
+2026-02-20 23:05:20,514 - INFO - Added new character 's' with count 1
+2026-02-20 23:05:20,514 - INFO - Incremented count of ' ' to 3
+2026-02-20 23:05:20,514 - INFO - Added new character 'j' with count 1
+2026-02-20 23:05:20,514 - INFO - Incremented count of 'i' to 2
+2026-02-20 23:05:20,514 - INFO - Incremented count of 's' to 2
+2026-02-20 23:05:20,514 - INFO - Added new character 'h' with count 1
+2026-02-20 23:05:20,515 - INFO - Added new character 'u' with count 1
+2026-02-20 23:05:20,515 - INFO - Incremented count of ' ' to 4
+2026-02-20 23:05:20,515 - INFO - Incremented count of 'm' to 3
+2026-02-20 23:05:20,515 - INFO - Incremented count of 'a' to 2
+2026-02-20 23:05:20,515 - INFO - Incremented count of 'h' to 2
+2026-02-20 23:05:20,515 - INFO - Incremented count of 'a' to 3
+2026-02-20 23:05:20,515 - INFO - Added new character 't' with count 1
+2026-02-20 23:05:20,515 - INFO - Added new character 'o' with count 1
+2026-02-20 23:05:20,516 - INFO - Function completed
+2026-02-20 23:05:20,516 - INFO - Final frequency dictionary: {'m': 3, 'y': 1, ' ': 4, 'n': 1, 'a': 3, 'e': 1, 'i': 2, 's': 2, 'j': 1, 'h': 2, 'u': 1, 't': 1, 'o': 1}
