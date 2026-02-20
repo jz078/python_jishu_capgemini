@@ -1,0 +1,9 @@
+2026-02-20 23:13:17,744 - INFO - User entered string: jishu
+2026-02-20 23:13:17,745 - INFO - reverse_string function started
+2026-02-20 23:13:17,745 - INFO - Adding character: u
+2026-02-20 23:13:17,746 - INFO - Adding character: h
+2026-02-20 23:13:17,746 - INFO - Adding character: s
+2026-02-20 23:13:17,746 - INFO - Adding character: i
+2026-02-20 23:13:17,746 - INFO - Adding character: j
+2026-02-20 23:13:17,746 - INFO - Function completed. Reversed string: uhsij
+2026-02-20 23:13:17,747 - INFO - Final output: uhsij
