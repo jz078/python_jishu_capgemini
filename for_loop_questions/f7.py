@@ -2,6 +2,7 @@
 
 import logging
 
+
 logging.basicConfig(
     filename="f7.log",
     level=logging.INFO,
