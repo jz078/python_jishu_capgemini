@@ -20,4 +20,4 @@ for ch in s:
         count += 1
         logging.info("Found vowel: %s", ch)
 
-logging.info("Total vowels: %d", count)
+logging.info("Total vowels: %d", count) 
