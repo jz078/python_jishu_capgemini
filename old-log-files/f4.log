@@ -1,0 +1,6 @@
+2026-02-20 23:11:05,570 - INFO - Checking list: [1, 3, 5, 7, 9]
+2026-02-20 23:11:05,571 - INFO - Comparing 1 and 3
+2026-02-20 23:11:05,571 - INFO - Comparing 3 and 5
+2026-02-20 23:11:05,571 - INFO - Comparing 5 and 7
+2026-02-20 23:11:05,571 - INFO - Comparing 7 and 9
+2026-02-20 23:11:05,571 - INFO - List is sorted in ascending order
